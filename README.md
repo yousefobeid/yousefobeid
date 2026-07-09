@@ -89,9 +89,9 @@ A scalable Flutter foundation including:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefobeid)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefobeid" />
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefobeid)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefobeid&layout=compact" />
 
 ---
 
