@@ -52,7 +52,7 @@ Currently expanding my backend skills with Node.js and building full-stack solut
 - SOLID Principles
 - Design Patterns
 - Dependency Injection
-- State Management (BLoC)
+- State Management (BLoC & GetX)
 - RESTful APIs
 - Modular Application Design
 - Performance Optimization
