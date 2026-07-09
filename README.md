@@ -101,6 +101,9 @@ A scalable Flutter foundation including:
   <a href="https://www.linkedin.com/in/yousef-obid-9301052b5" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="mailto:yousefobid521@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
