@@ -98,9 +98,9 @@ A scalable Flutter foundation including:
 ## 🤝 Connect With Me
 
 <p>
-<a href="www.linkedin.com/in/yousef-obid-9301052b5">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/yousef-obid-9301052b5">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
