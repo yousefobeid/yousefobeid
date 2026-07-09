@@ -1,16 +1,108 @@
-## Hi there 👋
+# Hi 👋, I'm Yousef Obeid
 
-<!--
-**yousefobeid/yousefobeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mobile & Full-Stack Software Engineer 🚀
 
-Here are some ideas to get you started:
+I build scalable, high-performance mobile applications with a strong focus on clean architecture, maintainable code, and great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Specialized in Flutter development with experience in native Android & iOS integration, Firebase services, CI/CD automation, and modern software architecture.
+
+Currently expanding my backend skills with Node.js and building full-stack solutions.
+
+---
+
+## 🚀 About Me
+
+- 📱 Flutter Developer building cross-platform mobile applications
+- 🏗️ Experienced with Clean Architecture & BLoC Pattern
+- 🔗 Native integration using Kotlin, Swift, and MethodChannels
+- ☁️ Firebase ecosystem & cloud services
+- ⚙️ CI/CD automation using Fastlane and GitLab pipelines
+- 🌱 Learning and building Full-Stack applications with Node.js
+- 💡 Passionate about clean code, system design, and scalable solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab,docker" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+---
+
+## 🏗️ Architecture & Concepts
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Dependency Injection
+- State Management (BLoC)
+- RESTful APIs
+- Modular Application Design
+- Performance Optimization
+
+---
+
+## 📱 Featured Projects
+
+### KayanHR
+Enterprise Human Resources application.
+
+**Features:**
+- Attendance management
+- Geofencing & location services
+- WidgetKit integration
+- Native iOS & Android communication
+- Firebase integration
+- Secure storage & API integration
+
+---
+
+### Flutter Clean Architecture Template
+
+A scalable Flutter foundation including:
+
+- BLoC Pattern
+- Dio & Retrofit
+- Freezed Models
+- Dependency Injection
+- Repository Pattern
+- Error Handling
+
+---
+
+## 📊 GitHub Stats
+
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefobeid&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefobeid&layout=compact&theme=transparent)
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+⭐ Always learning. Always building. Always improving.
